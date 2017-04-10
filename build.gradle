@@ -32,7 +32,9 @@ allprojects {
     ext {
         supportVersion = "25.3.1"
         majorVersion = 1
-        minorVersion = "0.1"
+        minorVersion = "0.4"
+        minSdk = 13
+        targetSdk = 25
     }
 }
 
